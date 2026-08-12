@@ -1,7 +1,0 @@
-name: wirelessRedstone
-version: '1.0-SNAPSHOT'
-
-main: org.wirelessredstone.WirelessRedstone
-bootstrapper: org.wirelessredstone.WirelessRedstoneBootstrap
-api-version: '26.2'
-load: POSTWORLD
