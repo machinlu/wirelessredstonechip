@@ -12,7 +12,7 @@
 
 ### 📡 Hướng Dẫn Sử Dụng WirelessRedstone
 
-![How to use WirelessRedstone](ĐƯỜNG_LINK_ẢNH_CỦA_NÍ_Ở_ĐÂY)
+
 
 #### 🔨 1. Công Thức Chế Tạo (Crafting)
 * **Transmitter Chip (Đỏ):** `2 Redstone Dust` + `2 Observer`
@@ -34,7 +34,7 @@
 
 ### 🕹️ How to Use
 
-![How to use WirelessRedstone](ĐƯỜNG_LINK_ẢNH_CỦA_NÍ_Ở_ĐÂY)
+
 
 1. **Craft:**
    * **Transmitter Chip:** `2 Redstone Dust` + `2 Observers`
