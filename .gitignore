@@ -1,0 +1,1 @@
+-e ".gradle/\n.idea/\n.kotlin/\nbuild/\nout/\n*.jar" 

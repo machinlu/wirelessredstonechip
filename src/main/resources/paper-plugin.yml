@@ -1,0 +1,7 @@
+name: wirelessRedstone
+version: '${version}'
+
+main: org.wirelessredstone.WirelessRedstone
+bootstrapper: org.wirelessredstone.WirelessRedstoneBootstrap
+api-version: '26.2'
+load: POSTWORLD
